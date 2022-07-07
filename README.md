@@ -1,5 +1,5 @@
 ## 👋 Hi,there I’m Joonhong choi.
-- 👀 I’m interested in playing Fifa online.
+- 👀 I’m interested in playing FIFA online.
 - 🌱 I’m currently learning Full stack engineer.
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me 
