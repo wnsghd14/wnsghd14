@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Full stack engineer.
 - 💞️ I’m looking to collaborate on someone
 - 📫 How to reach me 
-- [Instagram](https://www.instagram.com/choijhongg/)
+- [Instagram](https://www.instagram.com/choijhongg/)[wnsghd14@gmail.com]
 
 <!---
 wnsghd14/wnsghd14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
