@@ -6,7 +6,7 @@
 - 📫 How to reach me 
 - [Tistory](https://wnsghd04.tistory.com/),wnsghd14@gmail.com
 <br>[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=wnsghd04)](https://solved.ac/wnsghd04)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wnsghd14&theme=dark&show_icons=true)
 <!---
 wnsghd14/wnsghd14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
